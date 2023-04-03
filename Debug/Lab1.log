@@ -1,0 +1,3 @@
+﻿  dfs.cpp
+D:\source\repos\Lab1\Lab1\dfs.cpp(224,21): warning C4101: 'viz': unreferenced local variable
+  Lab1.vcxproj -> D:\source\repos\Lab1\Debug\Lab1.exe
